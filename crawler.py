@@ -8,7 +8,7 @@ import time
 area_list = []
 name_list = []
 url_list = []
-og = pd.read_csv("file://localhost/Users/emansell/Desktop/urls.csv")
+#og = pd.read_csv..
 urls=og.values.flatten()
 
 for url in urls:
